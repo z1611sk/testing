@@ -10,4 +10,8 @@ public class Test {
     public static void main(Strng[] arrgs){
         System.out.println("sad此时一下啊啊啊啊aasdsadsa你好啊");
     }
+
+    public static void mainasdas(Strng[] arrgs){
+        System.out.println("sad此时一下啊啊啊啊aasdsadsa你好啊11111111111111111");
+    }
 }
