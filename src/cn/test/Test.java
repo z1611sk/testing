@@ -7,11 +7,12 @@ public class Test {
         System.out.println("sad此时一下啊啊啊啊aasdsadsa你好啊");
     }
 
-    public static void main(Strng[] arrgs){
+    public static void main(String[] arrgs){
         System.out.println("sad此时一下啊啊啊啊aasdsadsa你好啊");
     }
 
-    public static void mainasdas(Strng[] arrgs){
+    public static void mainasdas(String[] arrgs){
         System.out.println("sad此时一下啊啊啊啊aasdsadsa你好啊11111111111111111");
     }
+
 }
